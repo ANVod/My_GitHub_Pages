@@ -1,5 +1,5 @@
 title: "Антон Водясов | Junior Python Developer"
 description: "Портфолио Python-разработчика с опытом в аналитике данных и разработке ботов"
-theme: jekyll-theme-cayman  # Укажите название темы, которую выбрали
+theme: jekyll-theme-cayman
 url: "https://anvod.github.io"
-baseurl: "/My_GitHub_Pages" # Этот параметр указывает на базовый URL репозитория
+baseurl: "/My_GitHub_Pages"
