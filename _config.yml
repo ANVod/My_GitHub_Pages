@@ -1,5 +1,5 @@
 title: "Антон Водясов | Junior Python Developer"
 description: "Портфолио Python-разработчика с опытом в аналитике данных и разработке ботов"
 theme: jekyll-theme-cayman
-url: "https://github.com/ANVod"
-baseurl: "/My_GitHub_Pages"
+url: "https://github.com/ANVod" 
+baseurl: "" 
